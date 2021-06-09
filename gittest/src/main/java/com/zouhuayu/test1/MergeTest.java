@@ -13,5 +13,6 @@ public class MergeTest {
         System.out.println("hello branch002  2222222"); // 利用版本号可以实现分支代码回退
         System.out.println("看到这行代码，说明我把分支branch002的开发代码成功合并到了主分支");
 
+
     }
 }
