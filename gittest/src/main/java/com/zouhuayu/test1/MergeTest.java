@@ -8,5 +8,8 @@ public class MergeTest {
     public static void main(String[] args) {
         // 这个代码是在本地branch001向远程branch001推送的
         // 试验一下利用 branch1合并branch001
+        // 新建一个branch002分支，写新代码，提交到远程branch002分支
+        System.out.println("hello branch002  1111111");
+
     }
 }
