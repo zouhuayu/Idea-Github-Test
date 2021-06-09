@@ -10,5 +10,6 @@ public class Branch004Test {
         System.out.println("branch004 111111111");
         // 我在分支004上面新建一个分支005，然后对代码进行更新，之后合并到分支003
         System.out.println("branch005 dev then merge into branch003");
+        
     }
 }
