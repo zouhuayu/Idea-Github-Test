@@ -10,6 +10,6 @@ public class MergeTest {
         // 试验一下利用 branch1合并branch001
         // 新建一个branch002分支，写新代码，提交到远程branch002分支
         System.out.println("hello branch002  1111111");
-
+        System.out.println("hello branch002  2222222");
     }
 }
